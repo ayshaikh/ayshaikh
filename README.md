@@ -90,7 +90,7 @@ Currently      Refining production ML
 
 ### // CONNECT
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B0E11?style=for-the-badge&logo=vercel&logoColor=3DD9C2)](https://github.com/ayshaikh)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B0E11?style=for-the-badge&logo=vercel&logoColor=3DD9C2)](https://ayshaikh.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B0E11?style=for-the-badge&logo=linkedin&logoColor=3DD9C2)](https://linkedin.com/in/ayyan-shaikh)
 [![Email](https://img.shields.io/badge/EMAIL-0B0E11?style=for-the-badge&logo=gmail&logoColor=FF5A1F)](mailto:connect.ayyanshaikh@gmail.com)
 
